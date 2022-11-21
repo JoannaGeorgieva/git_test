@@ -1,0 +1,4 @@
+This is test
+for staging files
+and for commiting them in Git
+All files will be uploaded on GitHub later.
